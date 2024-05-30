@@ -181,10 +181,12 @@ body {
   color: brown;
   cursor: pointer;
 }
+/* intro ends */
+
 
 .about_us {
   background-color: #000;
-  padding: 0 0 100px 0px;
+  padding: 0 0 100px r0px;
 }
 
 #about {
